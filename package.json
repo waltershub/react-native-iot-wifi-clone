@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waltershub/react-native-iot-wifi.git"
+    "url": "git+https://github.com/waltershub/react-native-iot-wifi-clone.git"
   },
   "keywords": [
     "react-native",
@@ -28,8 +28,8 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tadasr/react-native-iot-wifi/issues"
+    "url": "https://github.com/waltershub/react-native-iot-wifi-clone/issues"
   },
-  "homepage": "https://github.com/tadasr/react-native-iot-wifi#readme",
+  "homepage": "https://github.com/waltershub/react-native-iot-wifi-clone#readme",
   "dependencies": {}
 }
